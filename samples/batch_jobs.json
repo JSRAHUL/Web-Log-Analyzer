@@ -1,0 +1,6 @@
+[
+  {"timestamp":"2026-10-14T11:00:00Z","level":"INFO","event":"job_started","message":"Nightly export started","job_id":"export-42"},
+  {"timestamp":"2026-10-14T11:01:15Z","level":"WARNING","event":"job_slow","message":"Export is taking longer than expected","job_id":"export-42","elapsed_seconds":75},
+  {"timestamp":"2026-10-14T11:02:10Z","level":"ERROR","event":"job_retry","message":"Storage temporarily unavailable","job_id":"export-42","attempt":1},
+  {"timestamp":"2026-10-14T11:03:00Z","level":"INFO","event":"job_complete","message":"Nightly export completed","job_id":"export-42","rows":1842}
+]

@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-14T09:00:00Z","level":"INFO","event":"server_started","message":"API listening","port":8080}
+{"timestamp":"2026-10-14T09:00:02Z","severity":"WARNING","event":"slow_request","message":"Request took 2.4s","path":"/reports"}
+{"timestamp":"2026-10-14T09:00:03Z","level":"ERROR","event":"database_timeout","message":"connection timed out","request_id":"a1"}
+not-json-at-all
+{"timestamp":"2026-10-14T09:00:05Z","level":"ERROR","event":"database_timeout","message":"connection timed out","request_id":"a2"}
+{"timestamp":"2026-10-14T09:00:06Z","level":"INFO","event":"request_complete","message":"Request completed","status":200}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-14T12:20:00Z","level":"ERROR","event":"database_timeout","message":"connection timed out","request_id":"err-01"}
+{"timestamp":"2026-10-14T12:20:04Z","level":"ERROR","event":"database_timeout","message":"connection timed out","request_id":"err-02"}
+{"timestamp":"2026-10-14T12:20:09Z","level":"CRITICAL","event":"database_timeout","message":"connection timed out","request_id":"err-03"}
+{"timestamp":"2026-10-14T12:20:12Z","level":"WARNING","event":"retry_limit_near","message":"Database retry limit nearly reached","request_id":"err-04"}
